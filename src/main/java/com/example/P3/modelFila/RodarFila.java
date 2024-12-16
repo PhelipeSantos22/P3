@@ -36,6 +36,7 @@ public class RodarFila {
             // Verificando novamente se a fila está vazia
             System.out.println("A fila está vazia? " + fila.isEmpty());
 
+
         } catch (Exception e) {
             System.out.println("Erro: " + e.getMessage());
         }
